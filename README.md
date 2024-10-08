@@ -53,7 +53,7 @@ Run the application.
 Use the API endpoints to manage jobs.
 
 # Features
-swagger docs : localhost:$port/api/jobs
+swagger docs : localhost:${port}/api/jobs
 Exception Handling
 Dockerization docker-compose file
 logs: logging actions in console and save it in file combined.log to can auditing
